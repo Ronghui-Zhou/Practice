@@ -1,5 +1,5 @@
 # Practice
-Practice for Data Scientist Nanodegree on Udaciy
+Practice for Data Scientist Nanodegree at Udaciy
 
 Motivation
 

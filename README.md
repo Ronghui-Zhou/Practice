@@ -14,9 +14,7 @@ Learning Plan:
   2. I also need to learn how to format in Medium
 
 
-waters micro-mass:
+
 
 WPRDUS4BK6735
 
-User: administrator
-pwd: S*
